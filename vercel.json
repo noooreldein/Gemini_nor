@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/gemini", "destination": "/api/app" },
+    { "source": "/", "destination": "/api/app" }
+  ]
+}
